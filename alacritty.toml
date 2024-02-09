@@ -1,0 +1,46 @@
+[colors.bright]
+black = "#393939"
+blue = "#33b1ff"
+cyan = "#3ddbd9"
+green = "#42be65"
+magenta = "#ff7eb6"
+red = "#ee5396"
+white = "#ffffff"
+yellow = "#ffe97b"
+
+[colors.normal]
+black = "#262626"
+blue = "#33b1ff"
+cyan = "#3ddbd9"
+green = "#42be65"
+magenta = "#ff7eb6"
+red = "#ee5396"
+white = "#dde1e6"
+yellow = "#ffe97b"
+
+[colors.primary]
+background = "#161616"
+foreground = "#ffffff"
+
+# [colors.search.footer_bar]
+# background = "#262626"
+# foreground = "#ffffff"
+
+[colors.search.matches]
+background = "#ee5396"
+foreground = "CellBackground"
+
+[env]
+LANG = "en_US.UTF-8"
+LC_CTYPE = "en_US.UTF-8"
+TERM = "alacritty"
+
+[font]
+size = 11.0
+
+[font.normal]
+family = "MesloLGS NF"
+style = "Regular"
+
+[window]
+opacity = 0.9
